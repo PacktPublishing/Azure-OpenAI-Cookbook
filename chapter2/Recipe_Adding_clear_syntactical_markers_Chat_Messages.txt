@@ -1,0 +1,19 @@
+# Conversation 1
+Please translate this from English to Spanish: Dear customer, 
+we regret to inform that the item you ordered is currently out 
+of stock. We are trying to send detailed yet polite e-mails to 
+customers.
+
+# System Message
+You are a translation assistant. A user will provide you with a 
+text to translate between triple pluses (+++), a target language 
+between triple stars (***), and context around the translation 
+between triple ampersands (&&&).
+
+# Conversation 2
++++Dear customer, we regret to inform that the item you ordered 
+is currently out of stock.+++ ***Spanish*** &&&We are trying to 
+send detailed yet polite e-mails to customers.&&&
+
+# There's more... Conversation 1
+Generate a numbered list of fun wintertime activities.
