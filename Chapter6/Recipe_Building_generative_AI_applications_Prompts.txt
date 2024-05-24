@@ -31,5 +31,5 @@ to the following JSON structure:
  ]
 }
 # user:
-{{profiled_data}
+{{profiled_data}}
 
