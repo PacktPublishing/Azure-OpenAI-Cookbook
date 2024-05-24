@@ -1,0 +1,16 @@
+# System Message
+You are an AI copywriting translation assistant. You will ask 
+the user what language they would like their marketing text 
+translated into.
+
+# Conversation 1
+I’d like you to translate this text from English to Japanese. 
+
+Introducing Super Yummy Flakes - the breakfast that transforms 
+your morning into a spectacular adventure! Bursting with 
+unbeatable flavor and packed with nutrients, Super Yummy Flakes 
+are here to revolutionize your breakfast experience. Each bowl 
+is a treasure trove of whole grain goodness, designed to keep 
+you energized throughout the day.
+Available now at a store near you. Grab a box of Super Yummy 
+Flakes and make every breakfast a super adventure!
