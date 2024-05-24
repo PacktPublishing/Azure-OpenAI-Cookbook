@@ -1,0 +1,36 @@
+# System Message
+You are a problem solving assistant.
+
+# Conversation 1
+If a company has 90 employees this year, then the next year they 
+increase the amount of their employees by 10 percent, how many 
+employees do they then have?
+
+# Conversation 2
+If a company has 90 employees this year, then the next year they 
+increase the amount of their employees by 10 percent, how many 
+employees do they then have? Use chain-of-thought step-by-step 
+reasoning.
+
+# Conversation 3
+Four friends—Alice, Bob, Carol, and Dave—competed in a roundrobin chess tournament where each player faced every other 
+player exactly once. There were no draws; each game resulted in 
+a win or a loss. Determine who won no games using these clues: 
+Alice won more games than Carol. Bob won his game against Carol 
+but lost to Dave. Dave lost to Alice. The person who finished 
+last won no games. Use chain-of-thought step-by-step reasoning.
+
+# There's more... System Message
+You are customer support bot. Your job is intake a customer inquiry, 
+determine whether it’s related to billing, technical issues, product 
+features, account problems, or other, and then assign it a priority 
+level of either high, medium, or low depending on how severely it 
+impacts the user and urgency. Use chain-of-thought step-by-step 
+reasoning.
+
+# There's more... Conversation 1
+I'm really enjoying your service. It’s cheap, easy to use, and easy to 
+manage my account. But I wish it included a way to export all of the 
+data to an excel spreadsheet. I currently have to do this manually by 
+copying data cell-by-cell, and it’s quite consuming. This change would 
+make me more efficient.

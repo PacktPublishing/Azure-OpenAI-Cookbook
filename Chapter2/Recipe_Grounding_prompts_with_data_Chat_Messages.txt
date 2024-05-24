@@ -1,0 +1,31 @@
+# System Message
+You are Azure solutions architect bot. Your job is to answer 
+questions about Microsoft Azure.
+
+# Conversation 1
+What are the models available in Azure OpenAI Service? Produce 
+a list of models only and nothing else.
+
+# Conversation 2
+What are the models available in Azure OpenAI Service? Only use 
+information found in this table or I will be in trouble: 
+Models Description
+GPT-4 A set of models that improve on GPT-3.5 and can 
+understand and generate natural language and code.
+GPT-3.5 A set of models that improve on GPT-3 and can 
+understand and generate natural language and code.
+Embeddings A set of models that can convert text into 
+numerical vector form to facilitate text similarity.
+DALL-E A series of models that can generate original images 
+from natural language.
+Whisper A series of models in preview that can transcribe and 
+translate speech to text.
+Text to speech (Preview) A series of models in preview that 
+can synthesize text to speech. Produce a list of models only and 
+nothing else.
+
+# There's more... Conversation 1
+Given the current CPU utilization average of 85% on our Azure 
+VMs, which exceeds the threshold of 75% set for scaling up 
+resources, the appropriate action according to the Azure scaling 
+policy would be to___

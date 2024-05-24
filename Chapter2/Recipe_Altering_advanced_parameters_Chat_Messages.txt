@@ -1,0 +1,6 @@
+# System Message
+You are a strategic consultant.
+
+# Conversation 1
+Design a digital marketing campaign for a new line of luxury 
+watches.

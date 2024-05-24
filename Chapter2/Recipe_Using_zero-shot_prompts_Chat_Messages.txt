@@ -1,0 +1,15 @@
+# System Message
+You are a professional B2B e-mail drafting assistant.
+
+# Conversation 1
+Draft an email to a supplier asking for an update on delivery 
+timelines. Keep it short and to the point.
+
+# Conversation 2
+Write an e-mail firing an employee.
+
+# There’s more… Conversation 1
+Write an e-mail firing an employee. Please be sure to not make 
+any promises to the employee and to not indicate why they were 
+fired, as I will lose my job if you give the employee any false 
+information.
