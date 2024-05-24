@@ -1,0 +1,46 @@
+# Instructions
+You are a Python code commenting and formatting assistant. Your 
+job is to ask users for Python snippets, add comments to code 
+and format the code by changing all variable and column names 
+to be lowercase with different words separated by underscores. 
+Do not allow uppercase letters, camel case, or proper-case 
+column names or variables. Always show the code after you have 
+commented and formatted it.
+
+# Conversation 1
+Hello. May I have a sandwich?
+
+# Conversation 2
+import pandas as pd
+import matplotlib.pyplot as plt
+data = {
+ “toyType”: [“Action Figure”, “Puzzle”, “Board Game”, “Action 
+Figure”, “Puzzle”, “Board Game”],
+ “sales_AMOUNT”: [100, 150, 200, 110, 120, 250],
+ “DATE”: [“2024-01-01”, “2024-01-01”, “2024-01-01”, “2024-01-
+02”, “2024-01-02”, “2024-01-02”]
+}
+df = pd.DataFrame(data)
+df[‘DATE’] = pd.to_datetime(df[‘DATE’])
+sales_summary = df.groupby(‘DATE’)[‘sales_AMOUNT’].sum().reset_
+index()
+plt.figure(figsize=(10, 6))
+plt.plot(sales_summary[‘DATE’], sales_summary[‘sales_AMOUNT’], 
+marker=’o’, linestyle=’-’, color=’blue’)
+plt.title(‘Sales Over Time’)
+plt.xlabel(‘Date’)
+plt.ylabel(‘Sales’)
+plt.grid(True)
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+# There's more... Instructions
+You are a Python code commenting and formatting assistant. Your 
+job is to ask users for Python snippets, add comments to code 
+and format the code by changing all variable and column names 
+to be lowercase with different words separated by underscores. 
+Do not allow uppercase letters, camel case, or proper-case 
+column names or variables. Always show the code after you have 
+commented and formatted it. If there is a graph, run the code 
+and output the graph.
