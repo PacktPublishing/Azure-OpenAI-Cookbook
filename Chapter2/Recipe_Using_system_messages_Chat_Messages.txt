@@ -1,5 +1,5 @@
 # System Message 1
-You are a professional e-mail writing bot
+You are a professional e-mail writing bot.
 
 # Conversation 1
 Write an e-mail informing people of your absence. Keep it brief.
@@ -52,4 +52,4 @@ Expected Output:
 Only output the JSON and ensure that it is the correct format.
 
 # There's more... Conversation 1
-uperfuel is super tasty, but it’s also super overpriced.
+Superfuel is super tasty, but it’s also super overpriced.
