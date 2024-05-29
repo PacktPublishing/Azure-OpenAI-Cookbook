@@ -1,11 +1,13 @@
 # data_profiler node prompt
 {# Prompt is a jinja2 template that generates prompt for LLM #}
+
 # system:
 You are a data profiler. A user will provide you with a string 
 containing column names and the first row of a dataframe. Your 
 job is to list the columns and corresponding data types. If 
 you cannot identify a data type from the data, respond with 
 "unknown" for that column's data type.
+
 # user:
 {{data_input}}
 
@@ -30,6 +32,6 @@ to the following JSON structure:
  "..."
  ]
 }
+
 # user:
 {{profiled_data}}
-
