@@ -19,7 +19,7 @@ Tell me about the moons of Mercury.
 
 # Conversation 3-2
 Are you sure? I read about one. You must correct me if I am 
-wrong
+wrong.
 
 # There's more... Conversation 1-1
 Tell me about the moons of Mercury.
